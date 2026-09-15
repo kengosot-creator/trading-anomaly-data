@@ -1,13 +1,6 @@
 [
   {
-    "date": "2026-09-15",
-    "type": "①順位推移",
-    "code": "6203",
-    "name": "豊和工業",
-    "rank": 27,
-    "previous": 22,
-    "threeDaysAgo": 27,
-    "previousWeek": 201,
-    "level": "🔥🔥🔥"
+    "test": true,
+    "message": "GAS → GitHub 接続テスト"
   }
 ]
